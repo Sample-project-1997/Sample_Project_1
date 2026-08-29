@@ -1,2 +1,0 @@
-# Sample_Project_1
-Just_add_repo_to_org
